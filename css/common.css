@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css');
+
+* {margin:0;padding:0;box-sizing:border-box;font-size:inherit;font-weight:normal;color:inherit;}
+ul,ol {list-style:none;}
+a {text-decoration:none;}
+body {font-family: 'Noto Sans KR', sans-serif;line-height:1;}
+img {vertical-align: middle; max-width:100%;} 
+button {font-family: 'Noto Sans KR', sans-serif;}
+
+/* max-width 100%로 줘야지 변경됨 */
